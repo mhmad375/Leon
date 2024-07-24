@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Work Sans';
+    src: url("fonts/WorkSans-Blod.ttf")
+    format('ttf');
+    src: url("fonts/WorkSans-ExtraBlod.ttf")
+    format('ttf');
+    src: url("fonts/WorkSans-ExtraLight.ttf")
+    format('ttf');
+    src: url("fonts/WorkSans-Light.ttf")
+    format('ttf');
+    src: url("fonts/WorkSans-Medium.ttf")
+    format('ttf');
+    src: url("fonts/WorkSans-SemiBlod.ttf")
+    format('ttf');
+}
